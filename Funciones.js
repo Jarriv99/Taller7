@@ -36,7 +36,7 @@ function ValidationLN(){
 }
 function UserName(){
 	var User = document.getElementById("UN");
-    if (User.value.length >= 10 && User.value.length <= 20) {
+    if (User.value.length >= 5 && User.value.length <= 20) {
         document.getElementById("invalid-UN").style.display = "none";
     } else {
         document.getElementById("invalid-UN").style.display = "block";

@@ -1,0 +1,31 @@
+.nav {
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+    
+}
+.h2{
+    margin: auto;
+    color: #ecf0f1;
+    
+}
+body{
+    background: url(fondo2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+    
+}
+.btn-warning{
+    width: 50;
+    height: 100%;
+   
+}
+
+.card-body{
+    background: rgba(245, 246, 250,.7);
+    background-size: cover;
+    background-attachment: fixed;
+    border-color: #0984e3;
+   
+    
+}
